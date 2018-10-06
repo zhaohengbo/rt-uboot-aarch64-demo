@@ -1,16 +1,8 @@
 /*
- * File      : interrupt.c
- * This file is part of RT-Thread RTOS
- * COPYRIGHT (C) 2013-2014, RT-Thread Development Team
- *
- * The license and distribution terms for this file may be
- * found in the file LICENSE in this distribution or at
- * http://www.rt-thread.org/license/LICENSE
- *
- * Change Logs:
  * Date           Author       Notes
- * 2013-07-06     Bernard      first version
+ * 2018-10-06     ZhaoXiaowei    the first version
  */
+
 #include <rthw.h>
 #include <rtthread.h>
 
